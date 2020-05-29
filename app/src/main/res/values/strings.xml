@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">005-MyCountUp</string>
+    <string name="CalcTasu1">+1</string>
+    <string name="CalcTasu10">+10</string>
+    <string name="CalcTasu20">+20</string>
+    <string name="CalcHiku1">-1</string>
+    <string name="CalcHiku10">-10</string>
+    <string name="CalcHiku20">-20</string>
+</resources>
